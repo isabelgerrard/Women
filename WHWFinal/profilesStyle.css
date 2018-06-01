@@ -1,0 +1,101 @@
+#menu{
+    margin: auto;
+    position:relative;
+    border: 2px solid #5b477d;
+    /*border-color: ;*/
+    text-align: center;
+    background-color: white;
+    background-image: url(http://www.roscanvec.com/images/backgrounds/services-background-tall.jpg);
+}
+
+/*h1{*/
+    /*font-family: sans-serif;*/
+    /*font-weight: 100;*/
+    /*text-align: center;*/
+    /*margin: 20px;*/
+    /*font-size: 45px;*/
+    /*color:#5b477d;*/
+/*}*/
+
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+    color: black;
+    text-align: center;
+    font-weight: 100;
+    background-image: url(http://www.roscanvec.com/images/backgrounds/services-background-tall.jpg);
+    background-size: 110%;
+}
+
+h2, #introText{
+    font-family: sans-serif;
+    font-weight: 100;
+    color:#5b477d;
+    text-align:center;
+    font-size: 20px;
+
+}
+
+#profilesDisplayTable {
+    text-align: center;
+    position: center;
+    margin: auto;
+}
+
+.profClass {
+    text-align: center;
+    background-color: #ddd3e0;
+    padding: 15;
+    font-family: sans-serif;
+    color: #5b477d;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#bioDisplay {
+    display: none;
+    width: 1200px;
+    margin:auto;
+    font-family: sans-serif;
+    color: #5b477d;
+}
+
+.title {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-weight: 100;
+    color:#5b477d;
+    text-align:center;
+}
+
+
+.topnav {
+    background-color: #5b477d;
+    overflow: hidden;w: hidden;
+    font-weight: 100;a
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    align-items: center;
+    text-align: center;
+    padding: 7px 10px;
+    text-decoration: none;
+    font-size: 17px;;
+}
+
+.topnav a:hover {
+    background-color: #e7e6f5;
+    color: black;
+}
+
+.active {
+    /*background-color: #bc97cc;*/
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
